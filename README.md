@@ -6,9 +6,8 @@ Jhoiner Andretty Silva Montaño
 
 Paso 1 (Ingresamos dígitos. cantidad: 3 )
 
-<img width="1710" height="564" alt="image" src="https://github.com/user-attachments/assets/de911167-f5be-4821-b13e-340971940a23" />
+<img width="483" height="178" alt="image" src="https://github.com/user-attachments/assets/9b42a49b-8c4b-47d1-88de-3ef294898b86" />
 
 Paso 2 (Visualizamos resultados)
 
-<img width="277" height="148" alt="image" src="https://github.com/user-attachments/assets/fd06a1bb-e6de-4a69-bded-d92c674093a7" />
-# Logica-programacion-1
+<img width="243" height="151" alt="image" src="https://github.com/user-attachments/assets/b1c291d8-a026-4766-bda2-b805da80e06d" />
